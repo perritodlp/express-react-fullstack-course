@@ -64,4 +64,4 @@ const mapDispatchToProps = (dispatch, ownProps) => {
     }
 }
 
-export const ConnectTaskDetail = connect(mapStateProps, mapDispatchToProps)(TaskDetail);
+export const ConnectedTaskDetail = connect(mapStateProps, mapDispatchToProps)(TaskDetail);
