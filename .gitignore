@@ -1,6 +1,6 @@
 node_modules
 #dist
-
+resources
 building-a-full-stack-app-with-react-and-express.code-workspace
 
 .DS_Store
